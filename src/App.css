@@ -1,0 +1,126 @@
+
+.App-header {
+  background-color: #E0FFFF;
+  min-height: 100em;
+  display: inline-block;
+  flex-direction: row;
+  align-items: start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%!important;
+
+}
+
+.HeaderBar{
+  border-style: hidden;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  display: flex;
+  max-width: 100%!important;
+  box-sizing: inherit;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  font-size: 14px;
+  line-height: 1.4285em;
+  
+}
+.ui-header{
+  margin-top: -.14285714em;
+  padding-left: 8px;
+  font-size: 2rem;
+  border: none;
+  margin: calc(2rem - .14285714em) 0 1rem;
+  padding: 0 0;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  font-weight: 700;
+  line-height: 1.28571429em;
+  text-transform: none;
+  color: #191970;
+    
+}
+.ui-header-icon{
+  padding-left: 8px;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  overflow: hidden;
+  background-color: #E0FFFF;
+  font-size: 20px;
+  margin: auto;
+  padding: 0 0;
+  color: #191970;
+}
+.ui-header-icon-name{
+  padding-left: 8px;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  overflow: hidden;
+  background-color: #E0FFFF;
+  font-size: 15px;
+  margin: auto;
+  padding: 0 2;
+  color: #191970;
+}
+.locacao{
+  color: #333;
+  border-radius: 32px !important;
+  border: 0;
+  height: 66px !important;
+  display: flex;
+  background-color: #191970;
+  padding: 4px;
+  border-radius: 4px;
+  margin: 24px 0 16px;
+  position: relative;
+  width: 100%;
+  box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.15), 0px 3px 8px rgba(0, 0, 0, 0.1) !important;
+  margin: 0 auto;
+  max-width: 850px !important;
+}
+.consulta{
+  background-color: #FFFFFF;
+  height: 66px !important;
+  display: flex;
+  vertical-align: middle;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 0 4px;
+  font-size: 14px;
+  line-height: 1.4285em;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  font-weight: 700;
+  color: #191970;
+  
+}
+.dataLocacao{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 250px;
+  height: auto;
+  padding: 12px;
+  font-size: 15px;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  font-weight: 700;
+  color: #191970;
+}
+.ui-pesquisa-icon{
+  padding-left: 8px;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  overflow: hidden;
+  background-color: #FFFFFF;
+  font-size: 20px;
+  margin: auto;
+  padding: 0 0;
+  color: #191970;
+}
+.checkIn{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 250px;
+  height: auto;
+  padding: 12px;
+  font-size: 15px;
+  font-family: 'FreightSansLF Pro','Noto Sans JP','Noto Sans KR','Helvetica Neue','Helvetica','Arial','Lucida Grande','Segoe UI','Tahoma','-apple-system','Roboto','sans-serif';
+  font-weight: 700;
+  color: #191970;
+}
